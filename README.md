@@ -15,9 +15,9 @@ In this class we will setup RTL1090 which is a ADS-B decoder and install Virtual
 
 ## Step 3: Download the ADS-B Decorder 
 1. Download the file from [https://raw.githubusercontent.com/A3XX/EavesdroppingOnPlanes/main/ADSB.zip](https://raw.githubusercontent.com/A3XX/EavesdroppingOnPlanes/main/ADSB.zip) 
-2. Once download is complete right click on file and Extract All, extarct these files to your C drive. 
+2. Once download is complete right click on file and Extract All, extract these files to your C drive. 
 
-## Step 4: Reboot your Laptop
-1. Please save your work and reboot the Laptop before the class. 
+## Step 4: Reboot your laptop
+1. Please save your work and reboot the laptop before the class. 
 
-## Step 5: We will compelete during class.
+## Step 5: We will complete during class.
