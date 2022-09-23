@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: [Eavesdropping On Planes]
+description: [Use RTL1090 ADS-B Decorder and Virtual Radar Server to plot the aircrafts on the map ]
+show_downloads: false
